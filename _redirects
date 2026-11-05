@@ -1,0 +1,10 @@
+/routes /routes.html 200
+/route-directory /routes.html 200
+/map /map.html 200
+/live-maps /map.html 200
+/planner /planner.html 200
+/journey-planner /planner.html 200
+/saved /saved.html 200
+/save /saved.html 200
+/home /index.html 200
+/* /index.html 200

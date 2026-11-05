@@ -1,0 +1,15 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/routes", "destination": "/routes.html" },
+    { "source": "/route-directory", "destination": "/routes.html" },
+    { "source": "/map", "destination": "/map.html" },
+    { "source": "/live-maps", "destination": "/map.html" },
+    { "source": "/planner", "destination": "/planner.html" },
+    { "source": "/journey-planner", "destination": "/planner.html" },
+    { "source": "/saved", "destination": "/saved.html" },
+    { "source": "/save", "destination": "/saved.html" },
+    { "source": "/home", "destination": "/index.html" },
+    { "source": "/", "destination": "/index.html" }
+  ]
+}
